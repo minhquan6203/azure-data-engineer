@@ -1,0 +1,9 @@
+{
+	"name": "quandatafucktory",
+	"location": "japanwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1100ced7-2c73-4f78-9314-b8fc318e3fc8",
+		"tenantId": "2dff09ac-2b3b-4182-9953-2b548e0d0b39"
+	}
+}
